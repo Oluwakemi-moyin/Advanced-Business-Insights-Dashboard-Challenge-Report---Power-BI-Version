@@ -1,4 +1,4 @@
-# Advanced-Business-Insights-Dashboard-Challenge-Report---Power-BI-Version
+# Advanced-Business-Insights-Dashboard-Challenge-Report
 Tools used: Python, PowerBI
 Introduction
 
