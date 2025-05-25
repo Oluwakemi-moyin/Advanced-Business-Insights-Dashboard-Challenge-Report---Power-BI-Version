@@ -1,22 +1,20 @@
 # Advanced-Business-Insights-Dashboard-Challenge-Report
 Tools used: Python, PowerBI
-Introduction
 
-The mobile app market is rapidly evolving, and platforms like the Google Play Store are continuously striving to maintain their leadership position in a highly competitive and dynamic environment. To ensure sustainable growth and adapt to ever-changing market conditions, leveraging data-driven insights has become a crucial strategy. In this context, the role of data analytics is paramount, enabling businesses to make informed, proactive decisions that drive performance, user engagement, and revenue optimization.
+### Introduction
 
-As a Senior Data Analyst of Google, my mission was to create an interactive dashboard using Power BI that would provide the Google Play Store leadership team with actionable insights to enhance app performance, user engagement, and revenue generation. The dashboard integrates multiple data sources, including internal Google Play Store metrics, external market trends, and sentiment analysis, offering a comprehensive view of app performance in the context of broader industry dynamics. Through this solution, our aim is to empower senior executives with the tools necessary to make data-backed decisions that foster continued success in a competitive market.
+Data sources: internal Google Play Store data, external market trends, and sentiment data.
 
 ## Objective
 This report outlines the process of developing the Advanced Business Insights Dashboard, from initial dataset exploration and cleaning to the creation of a dynamic, interactive Power BI dashboard. It highlights the key performance indicators (KPIs) that were defined, predictive analytics techniques used, and the valuable business insights that were derived. Additionally, actionable strategic recommendations are provided, designed to help the leadership team optimize their app portfolio, increase user satisfaction, and drive revenue growth.
 
+![Screenshot 2025-03-22 045208](https://github.com/user-attachments/assets/8d37e7e8-bdc8-4498-b969-fee41d7a0c53)
 
 1. Dataset Exploration & Understanding
 
 1.1 Google Play Store Dataset
 
-The first step involved downloading and analyzing the Google Play Store dataset, which provides key metrics such as ratings, reviews, install count, price, and category for each app. 
-
-The following important data points were identified for analysis:
+Key metrics:
 
 ● App Ratings: Indicates app quality and user satisfaction.
 
@@ -52,7 +50,7 @@ Early analysis revealed several important insights:
 
 2.1 External Dataset: Sentiment Analysis of User Reviews
 
-To enhance our insights, we incorporated an external dataset appledataset that includes sentiment analysis of user reviews across apps. This qualitative data provided us with:
+To enhance insights, I incorporated an external dataset apple dataset that includes sentiment analysis of user reviews across apps. This qualitative data provided me with:
 
 ● User Satisfaction Assessment: Apps with a higher positive sentiment tend to have better ratings and stronger user engagement.
 
